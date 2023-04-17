@@ -1,0 +1,5 @@
+pyspark
+cassandra-driver
+mysql-connector-python
+time_uuid
+uuid
